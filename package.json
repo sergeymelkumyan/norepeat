@@ -1,0 +1,19 @@
+{
+  "name": "shadowizardupdated",
+  "version": "1.0.0",
+  "description": "non designer",
+  "main": "index.js",
+  "scripts": {
+    "test": "https://github.com/sergeymelkumyan/shadowizard.git"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sergeymelkumyan/shadowizard.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sergeymelkumyan/shadowizard/issues"
+  },
+  "homepage": "https://github.com/sergeymelkumyan/shadowizard#readme"
+}
