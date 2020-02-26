@@ -1,15 +1,21 @@
 {
-  "name": "shadowizardupdated",
-  "version": "1.0.2",
-  "description": "non designer",
+  "name": "datesformatter",
+  "version": "1.0.0",
+  "description": "This is a [Moment.js](https://github.com/moment/moment/) plugin that allows you to work with only business days (Monday to Friday). You can customize the working week, and also set custom dates for holidays to exclude them from being counted as business days, for example **national holidays**.",
   "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
   "scripts": {
-    "test": "https://github.com/sergeymelkumyan/shadowizard.git"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/sergeymelkumyan/shadowizard.git"
   },
+  "keywords": [
+    "datesFormatter"
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {
