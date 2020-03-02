@@ -1,13 +1,8 @@
-# moment-business-days
-This is a [Moment.js](https://github.com/moment/moment/) plugin that allows you to work with only business days
-(Monday to Friday). You can customize the working week, and also set custom dates for holidays to exclude them from
-being counted as business days, for example **national holidays**.
+# datesformatter
+This is a [Moment.js](https://github.com/moment/moment/) plugin that allows you to work with start and end dates without repetition, for example "mar 1 - 12"
 
-## Notes
+## Note
 * This plugin works on both server and client side.
-* This plugin is based on [momentjs-business](https://github.com/leonardosantos/momentjs-business).
-* All contributions are welcome.
-* **Thaks to the contributors for making this plugin better!!**
 
 ## Usage
 
