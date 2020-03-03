@@ -203,8 +203,3 @@ $ npm install --save moment-business-days
 $ bower install moment-business-days
 ````
 
-## Testing
-
-````
-npm test
-````
