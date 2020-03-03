@@ -1,6 +1,6 @@
 {
-  "name": "norepeat",
-  "version": "1.0.1",
+  "name": "norepeatdate",
+  "version": "1.0.5",
   "description": "This is a [Moment.js](https://github.com/moment/moment/) plugin that allows you to work with only business days (Monday to Friday). You can customize the working week, and also set custom dates for holidays to exclude them from being counted as business days, for example **national holidays**.",
   "main": "index.js",
   "directories": {
@@ -16,7 +16,7 @@
   "keywords": [
     "datesFormatter"
   ],
-  "author": "",
+  "author": "Sergey",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/sergeymelkumyan/shadowizard/issues"

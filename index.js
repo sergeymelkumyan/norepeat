@@ -11,7 +11,7 @@ moment.fn.dateFormatter = function (date, format, lang) {
   return dateMoment.format(format).charAt(0).toUpperCase() + dateMoment.format(format).slice(1);
 };
 
-moment.fn.datesFormatter = function (start, end, lang) {
+moment.fn.norepeatdate = function (start, end, lang) {
   lang = lang || 'hy-am';
   // startDate
   let sD = {
